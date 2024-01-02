@@ -68,6 +68,8 @@ void GetSquare()
         {
             GetSquareAreaOption();
         }
+
+        printf("\n");
     } 
     while (option != 0);
 
